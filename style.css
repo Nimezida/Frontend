@@ -1,0 +1,14 @@
+h1 {   
+    text-align: center;
+    color:aqua;
+}
+ul{
+    list-style-type: none;
+}
+Img{
+    width: 200px;
+    border-radius: 25%;
+}
+.hueta {
+    font-style: italic;
+}
