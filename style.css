@@ -24,3 +24,12 @@ Img{
     display: flex;
     gap: 5px;
 }
+.cards-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:10px;
+}
+.card{
+    background-color: rgb(255, 0, 0);
+    padding: 5px;
+}
